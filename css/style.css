@@ -6,7 +6,7 @@ body {
     background-color: black;
 }
 :root {
-    --primary-color: #ffff;
+    --white-color: #ffff;
     --primary-font: 'Montserrat', sans-serif;
     --secondary-font: 'Roboto', sans-serif;
 }
@@ -45,45 +45,58 @@ body {
     margin: 0;
     font-weight: 900;
     font-size: 60px;
-    color: var(--primary-color);
+    color: var(--white-color);
     font-family: var(--primary-font);
     text-transform: uppercase;
     letter-spacing: 1px;
     padding-bottom: 10px;
 }
+.open-source{
+    color: red;
+}
 .home-section p {
     margin: 0;
     font-size: 20px;
-    color: var(--primary-color);
+    color: var(--white-color);
     font-family: var(--secondary-font);
     letter-spacing: 1px;
 }
 
 /* title */
 .head-title{
-    color: var(--primary-color);
+    color: var(--white-color);
     text-align: center;
     text-transform: uppercase;
-    font-family: var(--primary-color);
+    font-family: var(--white-color);
     font-size: 36px;
     padding-top: 60px;
     padding-bottom: 60px;
     font-weight: 900;
 }
 
-/* cards */
-.card-body{
-    background-color: black;
-}
-.card-title{
-    margin: 0;
-    color: #FFDF00;
+/* table */
+thead{
+    color: red;
+    font-size: 18px;
     font-family: var(--primary-font);
+}
+th{
+    color: red;
+    font-size: 18px;
+    font-family: var(--secondary-font);
+}
+td{
+    color: white;
+    font-size: 18px;
+    font-family: var(--secondary-font);
+}
+td a{
+    text-decoration: none;
+    color: white;
     font-weight: 900;
 }
-.card-text{
-    color: var(--primary-color);
-    font-family: var(--secondary-font);
+td a:hover{
+    color: red;
 }
 
 /* footer */
@@ -97,7 +110,7 @@ body {
     text-transform: uppercase;
     text-align: right;
     color: red;
-    font-family: var(--primary-color);
+    font-family: var(--white-color);
     font-size: 16px;
     font-weight: 600;
 }
