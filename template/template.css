@@ -1,0 +1,130 @@
+/* Smooth Scroll */
+html {
+    scroll-behavior: smooth;
+}
+body {
+    background-color: black;
+}
+:root {
+    --primary-color: #ffff;
+    --primary-font: 'Montserrat', sans-serif;
+    --secondary-font: 'Roboto', sans-serif;
+}
+
+/* Scrollbar Color Change */
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-thumb {
+    background: var(--primary-color);
+    /* background: black; */
+}
+
+/* NavBar section */
+.navbar-section {
+    background-color: black;
+}
+.navbar-brand img {
+    width: auto;
+    height: 60px;
+}
+
+/* main section */
+.title-text{
+    color: var(--primary-color);
+    font-family: var(--primary-font);
+    padding-top: 120px;
+    padding-bottom: 40px;
+}
+
+/* card */
+.card-box{
+    /* background-color: var(--primary-color); */
+    background-color: black;
+    width: auto;
+    height: auto;
+}
+.profile-pic-div{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.profile-pic{
+    height: 250px;
+    width: auto;
+    padding-bottom: 20px;
+}
+.cardbox-head{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.cardbox-head h1{
+    margin: 0;
+    font-family: var(--primary-font);
+    font-size: 36px;
+    color: var(--primary-color);
+}
+.cardbox-about{
+    padding-bottom: 20px;
+}
+.cardbox-about p{
+    margin: 0;
+    font-family: var(--secondary-font);
+    color: var(--primary-color);
+    font-size: 16px;
+}
+.cardbox-education{
+    padding-bottom: 20px;
+}
+.cardbox-education ul{
+    margin: 0;
+}
+.cardbox-education li{
+    margin: 0;
+    font-size: 16px;
+    font-family: var(--secondary-font);
+    color: var(--primary-color);
+    padding-bottom: 15px;
+}
+.cardbox-education li span{
+    color: red;
+}
+.cardbox-skills{
+    padding-bottom: 20px;
+}
+.cardbox-skills p{
+    margin: 0;
+    display: inline;
+    font-size: 16px;
+    font-family: var(--secondary-font);
+}
+.badge-icon{
+    background-color: red;
+    color: var(--primary-color);
+}
+.sub-head{
+    margin: 0;
+    font-size: 24px;
+    font-family: var(--primary-font);
+    color: var(--primary-color);
+    font-weight: 700;
+    padding-bottom: 10px;
+}
+.cardbox-contact{
+    padding-bottom: 20px;
+}
+.cardbox-contact p{
+    margin: 0;
+    font-size: 16px;
+    font-family: var(--secondary-font);
+    color: var(--primary-color);
+    padding-bottom: 10px;
+}
+.cardbox-contact p a{
+    text-decoration: none;
+    color: var(--primary-color);
+}
+.cardbox-contact p a:hover{
+    text-decoration: underline;
+    color: red;
+}
