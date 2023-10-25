@@ -11,13 +11,16 @@ body {
     --secondary-font: 'Roboto', sans-serif;
 }
 
-/* Scrollbar Color Change */
-::-webkit-scrollbar {
+/* custom scrollbar */
+::-webkit-scrollbar{
     width: 10px;
 }
-::-webkit-scrollbar-thumb {
-    background: var(--primary-color);
-    /* background: black; */
+::-webkit-scrollbar-track{
+    background: black;
+}
+::-webkit-scrollbar-thumb{
+    background: white;
+    border-radius: 50px;
 }
 
 /* NavBar section */
@@ -30,16 +33,9 @@ body {
 }
 
 /* main section */
-.title-text{
-    color: var(--primary-color);
-    font-family: var(--primary-font);
-    padding-top: 120px;
-    padding-bottom: 40px;
-}
-
 /* card */
 .card-box{
-    /* background-color: var(--primary-color); */
+    padding-top: 120px;
     background-color: black;
     width: auto;
     height: auto;
@@ -63,6 +59,10 @@ body {
     font-family: var(--primary-font);
     font-size: 36px;
     color: var(--primary-color);
+}
+.name{
+    color: red;
+    text-shadow: 2px 2px #ffffff;
 }
 .cardbox-about{
     padding-bottom: 20px;
@@ -127,4 +127,25 @@ body {
 .cardbox-contact p a:hover{
     text-decoration: underline;
     color: red;
+}
+
+/* footer */
+.footer{
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.footer h6{
+    margin: 0;
+    text-transform: uppercase;
+    text-align: right;
+    color: red;
+    font-family: var(--primary-color);
+    font-size: 16px;
+    font-weight: 600;
+}
+.hashtags{
+    text-align: right;
+    margin: 0;
+    color: white;
 }
