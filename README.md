@@ -4,7 +4,7 @@
 
 [![GitHub forks](https://img.shields.io/github/forks/inovus-labs/static-web-resume)](https://github.com/inovus-labs/static-web-resume/network)
 [![Contributors](https://img.shields.io/github/contributors/inovus-labs/static-web-resume)](https://github.com/inovus-labs/static-web-resume/graphs/contributors)
-[![PRs Welcome](https://img.shields.io/badge/PRs-Only%20accepted%20from%20KJCMT%20students-brightgreen.svg)](https://github.com/inovus-labs/static-web-resume/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Only%20accepted%20for%20KJCMT%20students-brightgreen.svg)](https://github.com/inovus-labs/static-web-resume/pulls)
 ![GitHub repo size](https://img.shields.io/github/repo-size/inovus-labs/static-web-resume)
 ![GitHub last commit](https://img.shields.io/github/last-commit/inovus-labs/static-web-resume)
 
