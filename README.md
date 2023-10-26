@@ -18,10 +18,10 @@ Follow these steps to participate in the Markdown Resume Challenge:
 
 1. Fork this repository to your GitHub account.
 2. Clone the forked repository to your local machine.
-3. Create a folder within the `contrib` folder, having your GitHub username as the folder name.<br>Add your markdown file to it. You can name it `index.html`.
-5. Start building your resume using HTML & CSS.
-6. Commit and push your changes to your forked repository.
-7. Create a pull request (PR) to this repository.
+3. Create a folder within the `contrib` folder, having your GitHub username as the folder name.<br>Add your HTML file to it. You can name it `index.html`.
+4. Take a copy of the the `template.html` file which is inside the `sample` folder under `contrib` folder and change it with your details.
+5. Commit and push your changes to your forked repository.
+6. Create a pull request (PR) to this repository.
 
 ## 🌟 Happy Hacking! 🎉
 
