@@ -10,7 +10,7 @@
 
 ## 🌟 What is this?
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+This repository help's you make your 1st step to Open Source contribution on this Hacktoberfest 2023 by participating in the Static Web Resume Challenge and also this is a hands-on project to help you learn HTML & CSS, and create your own resume-like page using the same.
 
 ## 🌟 Getting Started
 
@@ -22,10 +22,6 @@ Follow these steps to participate in the Markdown Resume Challenge:
 4. Take a copy of the the `template.html` file which is inside the `sample` folder under `contrib` folder and change it with your details.
 5. Commit and push your changes to your forked repository.
 6. Create a pull request (PR) to this repository.
-
-## 🌟 Happy Hacking! 🎉
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
 
 ## ⚠️ Disclaimer
 
