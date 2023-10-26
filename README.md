@@ -27,4 +27,6 @@ Follow these steps to participate in the Markdown Resume Challenge:
 
 This repository is not officially affiliated with Hacktoberfest. It's created for educational purposes and to encourage contributions during Hacktoberfest, for the students of **Kristu Jyoti College** exclusively. Therefore, sorry to say, that no external Pull Requests will be accepted.
 
+<p class="mail-tel-link" data-aos="fade-in">For any queries mail us on <a href="mailto:mail@inovuslabs.org">mail@inovuslabs.org</a></p>
+
 Happy Hacking & Happy Learning! 😄
