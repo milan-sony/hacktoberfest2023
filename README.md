@@ -31,4 +31,4 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 This repository is not officially affiliated with Hacktoberfest. It's created for educational purposes and to encourage contributions during Hacktoberfest, for the students of **Kristu Jyoti College** exclusively. Therefore, sorry to say, that no external Pull Requests will be accepted.
 
-Happy Hacking and Happy Learning Markdown! 😄
+Happy Hacking & Happy Learning! 😄
